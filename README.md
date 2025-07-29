@@ -37,7 +37,3 @@ This repository contains my code submissions for the Google AI/ML Virtual Intern
 - **Google AI/ML Virtual Internship** (with AICTE & EduSkills) for instructional content and mentorship.
 - Open source libraries: TensorFlow, Keras, NumPy, Matplotlib, and others.
 - Public datasets: Fashion-MNIST, Kaggle datasets for project tasks, etc.
-
-## License
-
-This repository is for educational and portfolio purposes only. Refer to each script for any dataset attributions or third-party terms.
