@@ -1,0 +1,6 @@
+__pycache__/
+*/__pycache__/
+cat_or_dog_dataset/
+ethusd_price/
+horse_or_human_dataset/
+.venv/
